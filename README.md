@@ -1,6 +1,10 @@
 # Jackiewong.github.io
-Ontdekt Jackie !
+Hoi ik ben Jackie!
+
+student op het Deltion College in Zwolle!
+
+me eigen website: jackiewong.nl
 
 
-JOEHOEEEE
+©2025Jackiewong.nl , All rights reserved.
 

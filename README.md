@@ -11,5 +11,5 @@ me eigen website: https://jackiewong.nl
 - ---
 - Ben je er over eens dat het wel mogelijk andere doeleindes heeft mail dan naar : info@jackiewong.nl
 
-©2025Jackiewong.nl , All rights reserved.
+©2026 Jackiewong.nl , All rights reserved.
 

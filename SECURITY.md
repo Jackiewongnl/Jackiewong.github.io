@@ -15,4 +15,4 @@ door jou melding aan abuse@jackiewong.nl kan er snel worden ingegrepen en des no
 
 
 
-    ©2025 Jackiewong.nl , All rights reserved 
+    ©2026 Jackiewong.nl , All rights reserved 

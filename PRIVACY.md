@@ -18,5 +18,5 @@ https://jackiewong.nl/privacy
 Het privacybeleid wordt om de 5 maanden geupdate zodat het up to date blijft.
 <br>
 <br>
-©2026 Jackiewong.nl , All rights reserved 
+<br> <br> <br> ©2026 Jackiewong.nl , All rights reserved 
 

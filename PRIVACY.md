@@ -9,7 +9,7 @@ https://jackiewong.nl/privacy
 
 | Versies | Goedgekeurd        |
 | ------- | ------------------ |
-| v1.1   | ✅                  |
+| v1.1   | ✅ offline                  |
 | v2.1   | ✅  Goedegekeurd en staat online. |
 
 

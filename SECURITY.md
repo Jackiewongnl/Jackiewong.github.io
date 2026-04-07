@@ -4,7 +4,8 @@
 
 | Versies | Goedgekeurd        |
 | ------- | ------------------ |
-| v1.1   | ✅                  |
+| v1.1 ( test )   | ✅                  |
+| v2.1   | ✅  Goedegekeurd en staat online. |
 
 ## Misbruik meldingen maken van deze pagina
 

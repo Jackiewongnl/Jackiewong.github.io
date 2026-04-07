@@ -8,5 +8,5 @@ Je kan het privacybeleid inlezen via
 https://jackiewong.nl/privacy
 
 
-©2025 Jackiewong.nl , All rights reserved 
+©2026 Jackiewong.nl , All rights reserved 
 
